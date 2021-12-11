@@ -82,7 +82,7 @@ html{
 #home::before{ 
     content: "";
     position: absolute;
-    background: url('3.png') no-repeat center center/cover;
+    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Foriginalhomesteading.com%2Fhealthy-salad-recipes%2F&psig=AOvVaw1VaTsXRY493fZawYfe5VLY&ust=1639322620496000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKizy-WG3PQCFQAAAAAdAAAAABAI') no-repeat center center/cover;
     height: 642px;
     top:0px;
     left:0px;
