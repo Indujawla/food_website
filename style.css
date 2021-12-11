@@ -136,7 +136,7 @@ html{
 #payment-section::before{
  content: "";
  position: absolute;
- background: url("https://ibb.co/ZH1QwG5") no-repeat center;
+ background: url('https://www.northcore-europe.com/northcore-blog/wp-content/uploads/2020/03/charlotte-karlsen-DAih2b5MFcA-unsplash-scaled.jpg') no-repeat center;
  width: 100%;
  height: 100%;
  z-index: -1;
